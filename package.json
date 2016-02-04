@@ -1,0 +1,19 @@
+{
+  "name": "check-internet-connection-nodejs",
+  "version": "0.0.1",
+  "description": "Checking internet connection with a NodeJS server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymon Schouwenaar",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^2.4.0",
+    "mailgun-mailer": "^2.2.0",
+    "mailgun-send": "0.0.3",
+    "moment": "^2.11.1",
+    "nodemailer": "^2.1.0",
+    "satelize": "^0.2.0"
+  }
+}
